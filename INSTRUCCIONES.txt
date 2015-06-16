@@ -1,0 +1,9 @@
+copiar folder 'reportar_problema' en la siguiente carpeta:
+
+reportar_problema ->xampp/htdocs/moodle/blocks
+
+Luego copiar el archivo 'enviaremail.php' en:
+
+enviaremail.php ->xampp/htdocs/moodle
+
+----------------------------------------------------
