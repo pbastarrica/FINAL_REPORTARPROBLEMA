@@ -6,4 +6,8 @@ Luego copiar el archivo 'enviaremail.php' en:
 
 enviaremail.php ->xampp/htdocs/moodle
 
+luego al ingresar a moodle aparecera un boton de 'upgrade moodle database....' cliquear ese boton para que se implemente el boton.
+
+Finalmente en add block aparecera una nueva opcion llamada 'REPORTAR PROBLEMA' el cual agregara un bloque con un boton para agregar el problema
+
 ----------------------------------------------------
